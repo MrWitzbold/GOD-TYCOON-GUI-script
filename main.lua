@@ -404,7 +404,7 @@ open_close_2.TextSize = 20.000
 
 -- Scripts:
 
-local function NOVHD_fake_script() -- center_teleport.LocalScript 
+local function LATA_fake_script() -- center_teleport.LocalScript 
 	local script = Instance.new('LocalScript', center_teleport)
 
 	function do_stuff()
@@ -414,8 +414,8 @@ local function NOVHD_fake_script() -- center_teleport.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(NOVHD_fake_script)()
-local function LXBDSV_fake_script() -- music_1.LocalScript 
+coroutine.wrap(LATA_fake_script)()
+local function LZMW_fake_script() -- music_1.LocalScript 
 	local script = Instance.new('LocalScript', music_1)
 
 	function do_stuff()
@@ -431,8 +431,8 @@ local function LXBDSV_fake_script() -- music_1.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(LXBDSV_fake_script)()
-local function XJWCX_fake_script() -- music_2.LocalScript 
+coroutine.wrap(LZMW_fake_script)()
+local function UXPTY_fake_script() -- music_2.LocalScript 
 	local script = Instance.new('LocalScript', music_2)
 
 	function do_stuff()
@@ -448,8 +448,8 @@ local function XJWCX_fake_script() -- music_2.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(XJWCX_fake_script)()
-local function LGXGFW_fake_script() -- stop_songs.LocalScript 
+coroutine.wrap(UXPTY_fake_script)()
+local function EZODDJE_fake_script() -- stop_songs.LocalScript 
 	local script = Instance.new('LocalScript', stop_songs)
 
 	function do_stuff()
@@ -463,8 +463,8 @@ local function LGXGFW_fake_script() -- stop_songs.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(LGXGFW_fake_script)()
-local function BUNNX_fake_script() -- lightning_teleport.LocalScript 
+coroutine.wrap(EZODDJE_fake_script)()
+local function IJDVJ_fake_script() -- lightning_teleport.LocalScript 
 	local script = Instance.new('LocalScript', lightning_teleport)
 
 	function do_stuff()
@@ -474,8 +474,8 @@ local function BUNNX_fake_script() -- lightning_teleport.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(BUNNX_fake_script)()
-local function DGEX_fake_script() -- death_teleport.LocalScript 
+coroutine.wrap(IJDVJ_fake_script)()
+local function VCZEWQK_fake_script() -- death_teleport.LocalScript 
 	local script = Instance.new('LocalScript', death_teleport)
 
 	function do_stuff()
@@ -485,8 +485,8 @@ local function DGEX_fake_script() -- death_teleport.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(DGEX_fake_script)()
-local function DKQTSNJ_fake_script() -- poison_teleport.LocalScript 
+coroutine.wrap(VCZEWQK_fake_script)()
+local function HAEVUM_fake_script() -- poison_teleport.LocalScript 
 	local script = Instance.new('LocalScript', poison_teleport)
 
 	function do_stuff()
@@ -496,8 +496,8 @@ local function DKQTSNJ_fake_script() -- poison_teleport.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(DKQTSNJ_fake_script)()
-local function IRRQZ_fake_script() -- ice_teleport.LocalScript 
+coroutine.wrap(HAEVUM_fake_script)()
+local function FVAS_fake_script() -- ice_teleport.LocalScript 
 	local script = Instance.new('LocalScript', ice_teleport)
 
 	function do_stuff()
@@ -507,8 +507,8 @@ local function IRRQZ_fake_script() -- ice_teleport.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(IRRQZ_fake_script)()
-local function SCIYX_fake_script() -- light_teleport.LocalScript 
+coroutine.wrap(FVAS_fake_script)()
+local function RXCF_fake_script() -- light_teleport.LocalScript 
 	local script = Instance.new('LocalScript', light_teleport)
 
 	function do_stuff()
@@ -518,8 +518,8 @@ local function SCIYX_fake_script() -- light_teleport.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(SCIYX_fake_script)()
-local function EMVKKPQ_fake_script() -- nature_teleport.LocalScript 
+coroutine.wrap(RXCF_fake_script)()
+local function VOQZRU_fake_script() -- nature_teleport.LocalScript 
 	local script = Instance.new('LocalScript', nature_teleport)
 
 	function do_stuff()
@@ -529,8 +529,8 @@ local function EMVKKPQ_fake_script() -- nature_teleport.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(EMVKKPQ_fake_script)()
-local function WMSZNXY_fake_script() -- wind_teleport.LocalScript 
+coroutine.wrap(VOQZRU_fake_script)()
+local function DCBYOWL_fake_script() -- wind_teleport.LocalScript 
 	local script = Instance.new('LocalScript', wind_teleport)
 
 	function do_stuff()
@@ -540,8 +540,8 @@ local function WMSZNXY_fake_script() -- wind_teleport.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(WMSZNXY_fake_script)()
-local function MQNZK_fake_script() -- get_weapons.LocalScript 
+coroutine.wrap(DCBYOWL_fake_script)()
+local function EECFUL_fake_script() -- get_weapons.LocalScript 
 	local script = Instance.new('LocalScript', get_weapons)
 
 	function do_stuff()
@@ -559,8 +559,8 @@ local function MQNZK_fake_script() -- get_weapons.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(MQNZK_fake_script)()
-local function MMVV_fake_script() -- noclip.LocalScript 
+coroutine.wrap(EECFUL_fake_script)()
+local function YIQAZN_fake_script() -- noclip.LocalScript 
 	local script = Instance.new('LocalScript', noclip)
 
 	function do_stuff()
@@ -586,8 +586,8 @@ local function MMVV_fake_script() -- noclip.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(MMVV_fake_script)()
-local function LESPHWJ_fake_script() -- lightning_morph.LocalScript 
+coroutine.wrap(YIQAZN_fake_script)()
+local function TDBO_fake_script() -- lightning_morph.LocalScript 
 	local script = Instance.new('LocalScript', lightning_morph)
 
 	function do_stuff()
@@ -597,8 +597,8 @@ local function LESPHWJ_fake_script() -- lightning_morph.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(LESPHWJ_fake_script)()
-local function IOMM_fake_script() -- poison_morph.LocalScript 
+coroutine.wrap(TDBO_fake_script)()
+local function EZKI_fake_script() -- poison_morph.LocalScript 
 	local script = Instance.new('LocalScript', poison_morph)
 
 	function do_stuff()
@@ -608,8 +608,8 @@ local function IOMM_fake_script() -- poison_morph.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(IOMM_fake_script)()
-local function TQHI_fake_script() -- ice_morph.LocalScript 
+coroutine.wrap(EZKI_fake_script)()
+local function QEBS_fake_script() -- ice_morph.LocalScript 
 	local script = Instance.new('LocalScript', ice_morph)
 
 	function do_stuff()
@@ -619,8 +619,8 @@ local function TQHI_fake_script() -- ice_morph.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(TQHI_fake_script)()
-local function CXUJYVB_fake_script() -- fire_morph.LocalScript 
+coroutine.wrap(QEBS_fake_script)()
+local function TJJDF_fake_script() -- fire_morph.LocalScript 
 	local script = Instance.new('LocalScript', fire_morph)
 
 	function do_stuff()
@@ -630,8 +630,8 @@ local function CXUJYVB_fake_script() -- fire_morph.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(CXUJYVB_fake_script)()
-local function DPBLHI_fake_script() -- death_morph.LocalScript 
+coroutine.wrap(TJJDF_fake_script)()
+local function TMPC_fake_script() -- death_morph.LocalScript 
 	local script = Instance.new('LocalScript', death_morph)
 
 	function do_stuff()
@@ -641,8 +641,8 @@ local function DPBLHI_fake_script() -- death_morph.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(DPBLHI_fake_script)()
-local function BFDREBT_fake_script() -- wind_morph.LocalScript 
+coroutine.wrap(TMPC_fake_script)()
+local function ZOIO_fake_script() -- wind_morph.LocalScript 
 	local script = Instance.new('LocalScript', wind_morph)
 
 	function do_stuff()
@@ -652,8 +652,8 @@ local function BFDREBT_fake_script() -- wind_morph.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(BFDREBT_fake_script)()
-local function FKFJ_fake_script() -- nature_morph.LocalScript 
+coroutine.wrap(ZOIO_fake_script)()
+local function KRBZG_fake_script() -- nature_morph.LocalScript 
 	local script = Instance.new('LocalScript', nature_morph)
 
 	function do_stuff()
@@ -663,8 +663,8 @@ local function FKFJ_fake_script() -- nature_morph.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(FKFJ_fake_script)()
-local function EHEVDB_fake_script() -- light_morph.LocalScript 
+coroutine.wrap(KRBZG_fake_script)()
+local function GBAQOOV_fake_script() -- light_morph.LocalScript 
 	local script = Instance.new('LocalScript', light_morph)
 
 	function do_stuff()
@@ -674,8 +674,8 @@ local function EHEVDB_fake_script() -- light_morph.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(EHEVDB_fake_script)()
-local function XUUZL_fake_script() -- speed_button.LocalScript 
+coroutine.wrap(GBAQOOV_fake_script)()
+local function IRCSI_fake_script() -- speed_button.LocalScript 
 	local script = Instance.new('LocalScript', speed_button)
 
 	function do_stuff()
@@ -686,8 +686,8 @@ local function XUUZL_fake_script() -- speed_button.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(XUUZL_fake_script)()
-local function PXSQ_fake_script() -- open_close_2.LocalScript 
+coroutine.wrap(IRCSI_fake_script)()
+local function MCMKGX_fake_script() -- open_close_2.LocalScript 
 	local script = Instance.new('LocalScript', open_close_2)
 
 	function do_stuff()
@@ -703,4 +703,4 @@ local function PXSQ_fake_script() -- open_close_2.LocalScript
 	script.Parent.MouseButton1Click:Connect(do_stuff)
 	
 end
-coroutine.wrap(PXSQ_fake_script)()
+coroutine.wrap(MCMKGX_fake_script)()
